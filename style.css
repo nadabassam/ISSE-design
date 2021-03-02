@@ -78,7 +78,7 @@
     .workFields-title {
         font-size: 43px;
         width: 640px;
-        color: #F24976;
+        color: #42455a;
         font-weight: bold;
     }
 
@@ -95,7 +95,7 @@
     .Admission-title:hover,
     .workFields-title:hover,
     .Objectives-title:hover {
-        color: #42455a;
+        color: #F24976;
 
     }
 
@@ -137,7 +137,7 @@
     .workFields-title,
     .Objectives-title {
         font-size: 43px;
-        color: #F24976;
+        color: #42455a;
         padding-bottom: 15px;
     }
 
